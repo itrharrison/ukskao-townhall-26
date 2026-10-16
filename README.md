@@ -1,6 +1,6 @@
 # UK SKAO Science Committee Town Hall 2025
 
-<img src="images/UniOfManchesterLogo.svg" alt="University of Manchester Logo" width="200"/><img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1083469753%2F625699459063%2F1%2Foriginal.20250729-112718?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2000%2C1000&s=229832901fddcc0baa197f62c7187313" alt="SKAO in Action" width="385"/>
+<img src="images/UniOfManchesterLogo.svg" alt="University of Manchester Logo" width="385"/><img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1083469753%2F625699459063%2F1%2Foriginal.20250729-112718?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2000%2C1000&s=229832901fddcc0baa197f62c7187313" alt="SKAO in Action" width="385"/>
 
 - [Location](#location)
 - [Programme](#programme)
@@ -28,7 +28,7 @@ Please note the details of this programme are subject to change!
 | 11:35 | ECR Science Highlight Talk | ECR | 12 + 3 |
 | 11:50 | SKAO Construction Overview | Stuart Whittley | 20 + 10 |
 | 12:20 | ECR Science Highlight Talk | ECR | 12 + 3 |
-| 12:35 - 14:00 | **Lunch** |  | 1 hr 30 min |
+| 12:35 - 14:00 | **Lunch** |  | 1 hr 35 min |
 | 14:00 | ECR Science Highlight Talk | ECR | 12 + 3 |
 | 14:15 | ECR Science Highlight Talk | ECR | 12 + 3 |
 | 14:30 | UKSRC Session |  | 75 min |
