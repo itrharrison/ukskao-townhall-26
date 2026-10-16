@@ -1,6 +1,6 @@
 # UK SKAO Science Committee Town Hall 2025
 
-<img src="https://en.wikipedia.org/wiki/University_of_Manchester#/media/File:UniOfManchesterLogo.svg" alt="University of Manchester Logo" width="200"/><img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1083469753%2F625699459063%2F1%2Foriginal.20250729-112718?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2000%2C1000&s=229832901fddcc0baa197f62c7187313" alt="SKAO in Action" width="385"/>
+<img src="images/UniOfManchesterLogo.svg" alt="University of Manchester Logo" width="200"/><img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1083469753%2F625699459063%2F1%2Foriginal.20250729-112718?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2000%2C1000&s=229832901fddcc0baa197f62c7187313" alt="SKAO in Action" width="385"/>
 
 - [Location](#location)
 - [Programme](#programme)
@@ -10,7 +10,7 @@
 To register for either in-person or online attendance, please follow the link [here](https://www.eventbrite.co.uk/e/annual-uk-skao-science-committee-town-hall-27th-28th-october-2026-tickets-1997455446009?aff=oddtdtcreator&_gl=1*tovsbu*_up*MQ..*_ga*ODMzMTQ1MzIyLjE3OTIxNjkwNDE.*_ga_TQVES5V6SH*czE3OTIxNjkwNDAkbzEkZzAkdDE3OTIxNjkwNDAkajYwJGwwJGgw).
 
 ## Location
-The Town Hall will be located in the ... room of the Schuster Building at The University of Manchester
+The Town Hall will be located in the Jocelyn Bell Burnell room of the Schuster Building at The University of Manchester
 
 You can find the Schuster Building on google maps [here](https://maps.app.goo.gl/w1DwXkvbASVrKm1fA).
 
