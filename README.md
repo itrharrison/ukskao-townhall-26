@@ -7,7 +7,7 @@
 - [Location](#location)
 - [Programme](#programme)
 - [Local Information](#local-information)
----
+
 ## Registration
 To register for either in-person or online attendance, please follow the link [here](https://www.eventbrite.co.uk/e/annual-uk-skao-science-committee-town-hall-27th-28th-october-2026-tickets-1997455446009?aff=oddtdtcreator&_gl=1*tovsbu*_up*MQ..*_ga*ODMzMTQ1MzIyLjE3OTIxNjkwNDE.*_ga_TQVES5V6SH*czE3OTIxNjkwNDAkbzEkZzAkdDE3OTIxNjkwNDAkajYwJGwwJGgw).
 
@@ -21,7 +21,9 @@ The building is on the Manchester Oxford Road campus close to the city centre, s
 
 ## Programme
 Please note the details of this programme are subject to change!
+
 ### Tuesday 27th October
+
 | Start time | Title | Speaker | Duration |
 |---|---|---|---|
 | 10:30 | Arrival & Registration |  | 30 min |
@@ -42,6 +44,7 @@ Please note the details of this programme are subject to change!
 
 
 ### Wednesday 28th October
+
 | Start time | Title | Speaker | Duration |
 |---|---|---|---|
 | 09:00 | Arrival & Registration |  | 30 min |
@@ -59,6 +62,7 @@ Please note the details of this programme are subject to change!
 | 16:00 | **End** |  |  |
 
 ## Local Information
+
 ### Accommodation
 ...
 
