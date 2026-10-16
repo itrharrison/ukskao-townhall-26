@@ -1,4 +1,4 @@
-# UK SKAO Science Committee Town Hall 2025
+# UK SKAO Science Committee Town Hall 2026
 
 <!-- <img src="images/UniOfManchesterLogo.svg" alt="University of Manchester Logo" width="385"/> -->
 
