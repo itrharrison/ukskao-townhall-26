@@ -1,12 +1,8 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - README.md
-
-theme: jekyll-theme-minimal
-title: UKSKAO Town Hall 2026
-description: 27 - 28 October 2026, Manchester, UK
-logo: images/UniOfManchesterLogo.svg
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+markdown: GFM
