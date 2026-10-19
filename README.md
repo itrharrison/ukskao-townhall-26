@@ -81,6 +81,7 @@ As well as the usual chains, Manchester is one of the best places in the UK for 
 - [Bold Street Coffee](https://maps.app.goo.gl/8pCFSAN3GbtS9FHq7)
 
 **Evening**:
+
 Food courts with many options are typically good for large groups without reservations:
 - [Society](https://maps.app.goo.gl/Hksw47DHG7CF14By5)
 - [Mackie Mayor](https://maps.app.goo.gl/gBWdsHS6coHf8uop6)
