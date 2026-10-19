@@ -26,17 +26,17 @@ Please note the details of this programme are subject to change!
 
 | Start time | Title | Speaker | Duration |
 |---|---|---|---|
-| 10:30 | Arrival & Registration |  | 30 min |
+| 10:30 | Arrival & Registration (tea & coffee provided) |  | 30 min |
 | 11:00 | Welcome and UK SKAO Overview | Ian Harrison | 30 min |
 | 11:30 | UK SKAO Science Committee - ECR intro | ECR sub-committee | 5 min |
 | 11:35 | ECR Science Highlight: The cosmic number count dipole - results from SKA precursors and prospects for an SKA measurement | Jonah Wagenveld | 12 + 3 |
 | 11:50 | SKAO Construction Overview | Stuart Whittley | 20 + 10 |
 | 12:20 | ECR Science Highlight: The Kiloparsec jets and Multi-frequency SEDs of Radio-Loud AGNs| Jaimee Greenwood | 12 + 3 |
-| 12:35 - 14:00 | **Lunch** |  | 1 hr 35 min |
+| 12:35 - 14:00 | **Lunch** (self organised)|  | 1 hr 35 min |
 | 14:00 | ECR Science Highlight: Unveiling Planet Forming Discs with the Square Kilometre Array| Anastasia Topalidou | 12 + 3 |
 | 14:15 | ECR Science Highlight: Searching for radio transients and variable sources with MeerKLASS| Victoria Samboco | 12 + 3 |
 | 14:30 | UKSRC Session |  | 75 min |
-| 15:45 | **Break** |  | 30 min |
+| 15:45 | **Break** (tea & coffee provided) |  | 30 min |
 | 16:15 | ECR Science Highlight: The PATCHwork survey: Mining MeerKAT datasets for hundreds of new discoveries| Marcin Glowacki | 12 + 3 |
 | 16:30 | ECR Science Highlight: Half-century monitoring of SNRs in M82 with e-MERLIN and the EVN | Emily Walls | 12 + 3 |
 | 16:45 | e-MERLIN Discussion | Simon Garrington | 15 |
@@ -51,11 +51,11 @@ Please note the details of this programme are subject to change!
 | 09:30 | ECR Science Highlight: Mass modelling of galaxies over a billion years of cosmic time | Yara Simango | 12 + 3 |
 | 09:45 | SKAO Science Verification (SV) Overview | Shari Breen | 30 |
 | 10:15 | ECR Science Highlight: High-resolution structure of FRII radio galaxies across the luminosity range with LOFAR| Bonny Barkus | 12 + 3 |
-| 10:30 | **Break** |  | 30 min |
+| 10:30 | **Break** (tea & coffee provided) |  | 30 min |
 | 11:00 | Science Working Group SV Ideas | SWG representatives |  |
 | 12:00 | ECR Science Highlight: First sources of reionization: Lyman–Werner feedback from minihaloes in large-volume radiative-transfer simulations | David Attard | 12 + 3 |
 | 12:15 | ECR Science Highlight: An Unsupervised Clustering View of Pulsar Intensity Mode Changing | Kika Latkoczyova | 12 + 3 |
-| 12:30 - 13:45 | **Lunch** |  | 1 hr 15 min |
+| 12:30 - 13:45 | **Lunch** (self organised) |  | 1 hr 15 min |
 | 13:45 | Science Working Group SV Ideas | SWG representatives |  |
 | 14:30 | All-SWG SV and KSP Discussions |  | 60 min |
 | 15:30 | Wrap-up and buffer |  | 30 min |
