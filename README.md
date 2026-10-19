@@ -27,16 +27,16 @@ Please note the details of this programme are subject to change!
 | 10:30 | Arrival & Registration |  | 30 min |
 | 11:00 | Welcome and UK SKAO Overview | Ian Harrison | 30 min |
 | 11:30 | UK SKAO Science Committee - ECR intro | ECR sub-committee | 5 min |
-| 11:35 | The cosmic number count dipole - results from SKA precursors and prospects for an SKA measurement | Jonah Wagenveld | 12 + 3 |
+| 11:35 | ECR Science Highlight: The cosmic number count dipole - results from SKA precursors and prospects for an SKA measurement | Jonah Wagenveld | 12 + 3 |
 | 11:50 | SKAO Construction Overview | Stuart Whittley | 20 + 10 |
-| 12:20 | The Kiloparsec jets and Multi-frequency SEDs of Radio-Loud AGNs| Jaimee Greenwood | 12 + 3 |
+| 12:20 | ECR Science Highlight: The Kiloparsec jets and Multi-frequency SEDs of Radio-Loud AGNs| Jaimee Greenwood | 12 + 3 |
 | 12:35 - 14:00 | **Lunch** |  | 1 hr 35 min |
-| 14:00 | Unveiling Planet Forming Discs with the Square Kilometre Array| Anastasia Topalidou | 12 + 3 |
-| 14:15 | Searching for radio transients and variable sources with MeerKLASS| Victoria Samboco | 12 + 3 |
+| 14:00 | ECR Science Highlight: Unveiling Planet Forming Discs with the Square Kilometre Array| Anastasia Topalidou | 12 + 3 |
+| 14:15 | ECR Science Highlight: Searching for radio transients and variable sources with MeerKLASS| Victoria Samboco | 12 + 3 |
 | 14:30 | UKSRC Session |  | 75 min |
 | 15:45 | **Break** |  | 30 min |
-| 16:15 | The PATCHwork survey: Mining MeerKAT datasets for hundreds of new discoveries| Marcin Glowacki | 12 + 3 |
-| 16:30 | Half-century monitoring of SNRs in M82 with e-MERLIN and the EVN | Emily Walls | 12 + 3 |
+| 16:15 | ECR Science Highlight: The PATCHwork survey: Mining MeerKAT datasets for hundreds of new discoveries| Marcin Glowacki | 12 + 3 |
+| 16:30 | ECR Science Highlight: Half-century monitoring of SNRs in M82 with e-MERLIN and the EVN | Emily Walls | 12 + 3 |
 | 16:45 | e-MERLIN Discussion | Simon Garrington | 15 |
 | 17:00 | **End** |  |  |
 
@@ -45,13 +45,13 @@ Please note the details of this programme are subject to change!
 | Start time | Title | Speaker | Duration |
 |---|---|---|---|
 | 09:00 | Arrival & Registration |  | 30 min |
-| 09:30 | Mass modelling of galaxies over a billion years of cosmic time | Yara Simango | 12 + 3 |
+| 09:30 | ECR Science Highlight: Mass modelling of galaxies over a billion years of cosmic time | Yara Simango | 12 + 3 |
 | 09:45 | SKAO Science Verification (SV) Overview | Shari Breen | 30 |
-| 10:15 | High-resolution structure of FRII radio galaxies across the luminosity range with LOFAR| Bonny Barkus | 12 + 3 |
+| 10:15 | ECR Science Highlight: High-resolution structure of FRII radio galaxies across the luminosity range with LOFAR| Bonny Barkus | 12 + 3 |
 | 10:30 | **Break** |  | 30 min |
 | 11:00 | Science Working Group SV Ideas | SWG representatives |  |
-| 12:00 | First sources of reionization: Lyman–Werner feedback from minihaloes in large-volume radiative-transfer simulations | David Attard | 12 + 3 |
-| 12:15 | An Unsupervised Clustering View of Pulsar Intensity Mode Changing | Kika Latkoczyova | 12 + 3 |
+| 12:00 | ECR Science Highlight: First sources of reionization: Lyman–Werner feedback from minihaloes in large-volume radiative-transfer simulations | David Attard | 12 + 3 |
+| 12:15 | ECR Science Highlight: An Unsupervised Clustering View of Pulsar Intensity Mode Changing | Kika Latkoczyova | 12 + 3 |
 | 12:30 - 13:45 | **Lunch** |  | 1 hr 15 min |
 | 13:45 | Science Working Group SV Ideas | SWG representatives |  |
 | 14:30 | All-SWG SV and KSP Discussions |  | 60 min |
@@ -60,16 +60,35 @@ Please note the details of this programme are subject to change!
 
 ## Local Information
 ### Accommodation
-...
+The venue is located on the University's Oxford Road campus. Many hotels in the South of the city centre will be within easy commuting distance, either walking or on Manchester's excellent bus system.
+
+There are also several appropriate hotels on Oxford Road itself.
 
 ### Arrival
-...
+On Tuesday morning there will be tea and coffee available during the registration period from 10:30 to 11:00 am.
 
 ### Food and Drink
-...
+As well as the usual chains, Manchester is one of the best places in the UK for independent food and drink. This is true both for dinner options in the city centre, and nearby on Oxford Road for lunches. There is also a (probably unusefully large) list of places [here](https://maps.app.goo.gl/f9zg6UTaz7QTcR2m6).
 
 **Lunch**:
-...
+- [8th Day Cafe and Deli](https://maps.app.goo.gl/LcPLiksv29cvvxT47)
+- [University of Manchester Food Market](https://maps.app.goo.gl/4AD1AdwLcB4ADxzn9) (many street food options)
+- [Manchester Museum Cafe](https://maps.app.goo.gl/b1tiXyKSw7AaivM99)
+- [Bold Street Coffee](https://maps.app.goo.gl/8pCFSAN3GbtS9FHq7)
 
 **Evening**:
-...
+Food courts with many options are typically good for large groups without reservations:
+- [Society](https://maps.app.goo.gl/Hksw47DHG7CF14By5)
+- [Mackie Mayor](https://maps.app.goo.gl/gBWdsHS6coHf8uop6)
+- [Exhibition](https://maps.app.goo.gl/1EMNt1MBh9T7ae657)
+- [Freight Island](https://maps.app.goo.gl/W5M4QwazydRwJRc47)
+
+Restaurants:
+- [Bundobust](https://maps.app.goo.gl/k6XQmB7XbN7hFcyU6) (Indian street food)
+- [Nell's Pizza](https://maps.app.goo.gl/odJasHZLLTaKhWQ69)
+- [Bondi Bowls](https://maps.app.goo.gl/EQd8qMQZQEJxVuXP9)
+- [Great North Pie Co.](https://maps.app.goo.gl/QeU57saC3JytJoRM6)
+- [Rudy's Pizza](https://maps.app.goo.gl/hywCH5bH4h7MxwDSA) (the original one!)
+Bars:
+- [Sandbar](https://maps.app.goo.gl/Q9efQAjcfGBi1gdn9) (also does excellent pizza)
+- [Kro Bar](https://maps.app.goo.gl/CbnY3dv2JK34f9Hv8) (also does okay food)
