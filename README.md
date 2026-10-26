@@ -13,7 +13,7 @@
 The zoom line for the Town Hall will appear here. Registered participants have an email from eventbrite with the direct link.
 
 ## Registration
-To register for either in-person or online attendance, please follow the link [here](https://www.eventbrite.co.uk/e/annual-uk-skao-science-committee-town-hall-27th-28th-october-2026-tickets-1997455446009?aff=oddtdtcreator&_gl=1*tovsbu*_up*MQ..*_ga*ODMzMTQ1MzIyLjE3OTIxNjkwNDE.*_ga_TQVES5V6SH*czE3OTIxNjkwNDAkbzEkZzAkdDE3OTIxNjkwNDAkajYwJGwwJGgw).
+Registration is now closed. Remote participation may still be possible if you contact the organisers [via eventbrite](https://www.eventbrite.co.uk/e/annual-uk-skao-science-committee-town-hall-27th-28th-october-2026-tickets-1997455446009?aff=oddtdtcreator).
 
 ## Location
 The Town Hall will be located in the Jocelyn Bell Burnell room of the Schuster Building at The University of Manchester
