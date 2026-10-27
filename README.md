@@ -32,10 +32,10 @@ Please note the details of this programme are subject to change!
 |---|---|---|---|
 | 10:30 | Arrival & Registration (tea & coffee provided) |  | 30 min |
 | 11:00 | [Welcome and UK SKAO Overview](http://bit.ly/ianh_townhall26) | Ian Harrison, Jessica Atkinson | 30 min |
-| 11:30 | UK SKAO Science Committee - ECR intro | ECR sub-committee | 5 min |
-| 11:35 | ECR Science Highlight: The cosmic number count dipole - results from SKA precursors and prospects for an SKA measurement | Jonah Wagenveld | 12 + 3 |
-| 11:50 | SKAO Construction Overview | Stuart Whittley | 20 + 10 |
-| 12:20 | ECR Science Highlight: The Kiloparsec jets and Multi-frequency SEDs of Radio-Loud AGNs| Jaimee Greenwood | 12 + 3 |
+| 11:30 | [UK SKAO Science Committee - ECR intro](https://www.dropbox.com/scl/fi/36ih41p8auqxjpfwiswt1/SKAO-ECR-Fraser-Cowie.pdf?rlkey=wwe5sto1smbptuqxylchu8uca&st=ucsd4iet&dl=0) | ECR sub-committee | 5 min |
+| 11:35 | ECR Science Highlight: [The cosmic number count dipole - results from SKA precursors and prospects for an SKA measurement](https://www.dropbox.com/scl/fi/q630xw1nm17pzmukrius3/Wagenveld-SKA-talk-Jonah-Wagenveld.pdf?rlkey=7v8nux0cgakrs1n0sa4j4cumw&st=5pgkvwro&dl=0) | Jonah Wagenveld | 12 + 3 |
+| 11:50 | [SKAO Construction Overview](https://www.dropbox.com/scl/fi/7ilblc9aymaiv58m3v6fo/20261021-UKRI-SKAO-Townhall-27Oct26-SWW-Stuart-Whittley.pdf?rlkey=ziwe9fcov2hlttz3quei8cikz&st=remyqvb5&dl=0) | Stuart Whittley | 20 + 10 |
+| 12:20 | ECR Science Highlight: [The Kiloparsec jets and Multi-frequency SEDs of Radio-Loud AGNs](https://www.dropbox.com/scl/fi/djyzqn25dlk8ixh96nij6/skao-26-jaimeeg-Jaimee-Greenwood.pdf?rlkey=bic6x9y8np9gxvizm36n7hgns&st=ko8i2qdu&dl=0)| Jaimee Greenwood | 12 + 3 |
 | 12:35 - 14:00 | **Lunch** (self organised)|  | 1 hr 35 min |
 | 14:00 | ECR Science Highlight: Unveiling Planet Forming Discs with the Square Kilometre Array| Anastasia Topalidou | 12 + 3 |
 | 14:15 | ECR Science Highlight: Searching for radio transients and variable sources with MeerKLASS| Victoria Samboco | 12 + 3 |
