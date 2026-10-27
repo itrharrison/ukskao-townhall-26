@@ -31,7 +31,7 @@ Please note the details of this programme are subject to change!
 | Start time | Title | Speaker | Duration |
 |---|---|---|---|
 | 10:30 | Arrival & Registration (tea & coffee provided) |  | 30 min |
-| 11:00 | Welcome and UK SKAO Overview | Ian Harrison, Jessica Atkinson | 30 min |
+| 11:00 | [Welcome and UK SKAO Overview](http://bit.ly/ianh_townhall26) | Ian Harrison, Jessica Atkinson | 30 min |
 | 11:30 | UK SKAO Science Committee - ECR intro | ECR sub-committee | 5 min |
 | 11:35 | ECR Science Highlight: The cosmic number count dipole - results from SKA precursors and prospects for an SKA measurement | Jonah Wagenveld | 12 + 3 |
 | 11:50 | SKAO Construction Overview | Stuart Whittley | 20 + 10 |
@@ -98,6 +98,9 @@ Restaurants:
 - [Bondi Bowls](https://maps.app.goo.gl/EQd8qMQZQEJxVuXP9)
 - [Great North Pie Co.](https://maps.app.goo.gl/QeU57saC3JytJoRM6)
 - [Rudy's Pizza](https://maps.app.goo.gl/hywCH5bH4h7MxwDSA) (the original one!)
+
 Bars:
 - [Sandbar](https://maps.app.goo.gl/Q9efQAjcfGBi1gdn9) (also does excellent pizza)
 - [Kro Bar](https://maps.app.goo.gl/CbnY3dv2JK34f9Hv8) (also does okay food)
+- Port Street Beer House
+- Temple of Convenience (a bit marmite but worth trying if you haven't been before)
