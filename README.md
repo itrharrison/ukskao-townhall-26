@@ -39,7 +39,7 @@ Please note the details of this programme are subject to change!
 | 12:35 - 14:00 | **Lunch** (self organised)|  | 1 hr 35 min |
 | 14:00 | ECR Science Highlight: Unveiling Planet Forming Discs with the Square Kilometre Array| Anastasia Topalidou | 12 + 3 |
 | 14:15 | ECR Science Highlight: Searching for radio transients and variable sources with MeerKLASS| Victoria Samboco | 12 + 3 |
-| 14:30 | UKSRC Session |  | 75 min |
+| 14:30 | [UKSRC Session](https://www.dropbox.com/scl/fi/na5rumujqevlhv4rhx761/UKSRC-townhall2026-slides-Jack-Radcliffe.pdf?rlkey=5z5ogvmo7v4dei1jpeing3d5z&st=6qzgfsnl&dl=0) |  | 75 min |
 | 15:45 | **Break** (tea & coffee provided) |  | 30 min |
 | 16:15 | ECR Science Highlight: The PATCHwork survey: Mining MeerKAT datasets for hundreds of new discoveries| Marcin Glowacki | 12 + 3 |
 | 16:30 | ECR Science Highlight: Half-century monitoring of SNRs in M82 with e-MERLIN and the EVN | Emily Walls | 12 + 3 |
