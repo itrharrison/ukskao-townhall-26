@@ -37,12 +37,12 @@ Please note the details of this programme are subject to change!
 | 11:50 | [SKAO Construction Overview](https://www.dropbox.com/scl/fi/7ilblc9aymaiv58m3v6fo/20261021-UKRI-SKAO-Townhall-27Oct26-SWW-Stuart-Whittley.pdf?rlkey=ziwe9fcov2hlttz3quei8cikz&st=remyqvb5&dl=0) | Stuart Whittley | 20 + 10 |
 | 12:20 | ECR Science Highlight: [The Kiloparsec jets and Multi-frequency SEDs of Radio-Loud AGNs](https://www.dropbox.com/scl/fi/djyzqn25dlk8ixh96nij6/skao-26-jaimeeg-Jaimee-Greenwood.pdf?rlkey=bic6x9y8np9gxvizm36n7hgns&st=ko8i2qdu&dl=0)| Jaimee Greenwood | 12 + 3 |
 | 12:35 - 14:00 | **Lunch** (self organised)|  | 1 hr 35 min |
-| 14:00 | ECR Science Highlight: Unveiling Planet Forming Discs with the Square Kilometre Array| Anastasia Topalidou | 12 + 3 |
-| 14:15 | ECR Science Highlight: Searching for radio transients and variable sources with MeerKLASS| Victoria Samboco | 12 + 3 |
+| 14:00 | ECR Science Highlight: [Unveiling Planet Forming Discs with the Square Kilometre Array](https://www.dropbox.com/scl/fi/qn5z9jjma27jcv8460kca/SKAO-townhall-topalidou-Anastasia-Topalidou.pdf?rlkey=a4gjmw0t4hvlkolp4zz40xore&dl=0) | Anastasia Topalidou | 12 + 3 |
+| 14:15 | ECR Science Highlight: [Searching for radio transients and variable sources with MeerKLASS](https://www.dropbox.com/scl/fi/eifzrx20sco8cyw43wn8y/Victoria-Samboco-Victoria-Samboco.pptx?rlkey=tu2u8tijmkga4eaftfpq50jk6&dl=0) | Victoria Samboco | 12 + 3 |
 | 14:30 | [UKSRC Session](https://www.dropbox.com/scl/fi/na5rumujqevlhv4rhx761/UKSRC-townhall2026-slides-Jack-Radcliffe.pdf?rlkey=5z5ogvmo7v4dei1jpeing3d5z&st=6qzgfsnl&dl=0) |  | 75 min |
 | 15:45 | **Break** (tea & coffee provided) |  | 30 min |
-| 16:15 | ECR Science Highlight: The PATCHwork survey: Mining MeerKAT datasets for hundreds of new discoveries| Marcin Glowacki | 12 + 3 |
-| 16:30 | ECR Science Highlight: Half-century monitoring of SNRs in M82 with e-MERLIN and the EVN | Emily Walls | 12 + 3 |
+| 16:15 | ECR Science Highlight: [The PATCHwork survey: Mining MeerKAT datasets for hundreds of new discoveries](https://www.dropbox.com/scl/fi/1co0ugtdmz5zd74vvf8yi/UK-SKAO-Town-Hall-2026-MarcinGlowacki-Newer-Marcin-Glowacki-1.pptx?rlkey=p6z7mg35o975nq0s2pfnirops&dl=0) | Marcin Glowacki | 12 + 3 |
+| 16:30 | ECR Science Highlight: [Half-century monitoring of SNRs in M82 with e-MERLIN and the EVN](https://www.dropbox.com/scl/fi/5vi2i5c3inp7t045whf7q/EW-SKAOTOWNHALL26-Emily-Walls.pptx?rlkey=aqoyqsb5205o3kkum2s0gxvc4&dl=0) | Emily Walls | 12 + 3 |
 | 16:45 | e-MERLIN Discussion | Simon Garrington | 15 |
 | 17:00 | **End** |  |  |
 
@@ -57,10 +57,24 @@ Please note the details of this programme are subject to change!
 | 10:30 | **Break** (tea & coffee provided) |  | 30 min |
 | 11:00 | ECR Science Highlight: High-resolution structure of FRII radio galaxies across the luminosity range with LOFAR| Bonny Barkus | 12 + 3 |
 | 11:15 | Science Working Group SV Ideas | SWG representatives |  |
-| 12:00 | ECR Science Highlight: First sources of reionization: Lyman–Werner feedback from minihaloes in large-volume radiative-transfer simulations | David Attard | 12 + 3 |
-| 12:15 | ECR Science Highlight: An Unsupervised Clustering View of Pulsar Intensity Mode Changing | Kika Latkoczyova | 12 + 3 |
-| 12:30 - 13:45 | **Lunch** (self organised) |  | 1 hr 15 min |
+| 11:15 | Our Galaxy |	Katharine Johnston* | |
+| 11:22 | Cradle of Life | John Ilee* | |
+| 11:29	| Magnetism	| Kate Pattle* | |
+| 11:36	| Solar	| Eduard Kontar* | |
+| 11:43	| Particles	| Justin Bray | |
+| 11:50	| VLBI	| Jack Radcliffe* | |
+| 11:57	| Transients | Ben Stappers* | |
+| 12:05 | ECR Science Highlight: First sources of reionization: Lyman–Werner feedback from minihaloes in large-volume radiative-transfer simulations | David Attard | 12 + 3 |
+| 12:20 | ECR Science Highlight: An Unsupervised Clustering View of Pulsar Intensity Mode Changing | Kika Latkoczyova | 12 + 3 |
+| 12:35 - 13:45 | **Lunch** (self organised) |  | 1 hr 15 min |
 | 13:45 | Science Working Group SV Ideas | SWG representatives |  |
+| 13:45 | GW | Pippa Cole* | |
+| 13:52	| Pulsars | Lina Levin Preston | |
+| 13:59 | EoR | Anastasia Fialkov / Peter Sims* | |
+| 14:06 | Exgal Continuum | Catherine Hale* | |
+| 14:13 | Exgal Spectra | Jacco van Loon* | |
+| 14:20 | HI Galaxies | Anastasia Ponomareva* | |
+| 14:27 | Cosmology | Phil Bull | |
 | 14:30 | All-SWG SV and KSP Discussions |  | 60 min |
 | 15:30 | Wrap-up and buffer |  | 30 min |
 | 16:00 | **End** |  |  |
