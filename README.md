@@ -56,7 +56,7 @@ Please note the details of this programme are subject to change!
 | 09:45 | SKAO Science Verification (SV) Overview | Shari Breen | 45 |
 | 10:30 | **Break** (tea & coffee provided) |  | 30 min |
 | 11:00 | ECR Science Highlight: High-resolution structure of FRII radio galaxies across the luminosity range with LOFAR| Bonny Barkus | 12 + 3 |
-| 11:15 | Science Working Group SV Ideas | SWG representatives |  |
+| 11:15 | Science Working Group SV Ideas [Notes Document](https://docs.google.com/document/d/1UxkQ0apLhr7OV0QCAr9zOfVMW1VB4Gca6FCfKwELq-U/edit?usp=sharing) | SWG representatives |  |
 | 11:15 | Our Galaxy |	Katharine Johnston* | |
 | 11:22 | Cradle of Life | John Ilee* | |
 | 11:29	| Magnetism	| Kate Pattle* | |
