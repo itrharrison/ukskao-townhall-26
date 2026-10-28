@@ -53,7 +53,7 @@ Please note the details of this programme are subject to change!
 |---|---|---|---|
 | 09:00 | Arrival & Registration |  | 30 min |
 | 09:30 | ECR Science Highlight: Mass modelling of galaxies over a billion years of cosmic time | Yara Simango | 12 + 3 |
-| 09:45 | SKAO Science Verification (SV) Overview | Shari Breen | 45 |
+| 09:45 | [SKAO Science Verification (SV) Overview](https://www.dropbox.com/scl/fi/a6xswmi41vu3vxtu659mf/SV-UK-townhall-Shari-Breen.pdf?rlkey=zk8dor706j5m07ndj5x4dq1lz&dl=0) | Shari Breen, Sarrvesh Sridhar| 45 |
 | 10:30 | **Break** (tea & coffee provided) |  | 30 min |
 | 11:00 | ECR Science Highlight: High-resolution structure of FRII radio galaxies across the luminosity range with LOFAR| Bonny Barkus | 12 + 3 |
 | 11:15 | Science Working Group SV Ideas [Notes Document](https://docs.google.com/document/d/1UxkQ0apLhr7OV0QCAr9zOfVMW1VB4Gca6FCfKwELq-U/edit?usp=sharing) | SWG representatives |  |
