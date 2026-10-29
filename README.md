@@ -52,10 +52,10 @@ Please note the details of this programme are subject to change!
 | Start time | Title | Speaker | Duration |
 |---|---|---|---|
 | 09:00 | Arrival & Registration |  | 30 min |
-| 09:30 | ECR Science Highlight: Mass modelling of galaxies over a billion years of cosmic time | Yara Simango | 12 + 3 |
+| 09:30 | ECR Science Highlight: [Mass modelling of galaxies over a billion years of cosmic time](https://www.dropbox.com/scl/fi/wxn28aycr3thf0pnr2g37/SKA-Town-Hall2026-Yara.pdf?rlkey=ch3tev0sg9obvuounxiqd6tq9&dl=0) | Yara Simango | 12 + 3 |
 | 09:45 | [SKAO Science Verification (SV) Overview](https://www.dropbox.com/scl/fi/a6xswmi41vu3vxtu659mf/SV-UK-townhall-Shari-Breen.pdf?rlkey=zk8dor706j5m07ndj5x4dq1lz&dl=0) | Shari Breen, Sarrvesh Sridhar| 45 |
 | 10:30 | **Break** (tea & coffee provided) |  | 30 min |
-| 11:00 | ECR Science Highlight: High-resolution structure of FRII radio galaxies across the luminosity range with LOFAR| Bonny Barkus | 12 + 3 |
+| 11:00 | ECR Science Highlight: [High-resolution structure of FRII radio galaxies across the luminosity range with LOFAR](https://www.dropbox.com/scl/fi/t2sfchxtslnl81xlfruhc/Barkus-UKSKAO-TH-2026-Bonny-Barkus.pdf?rlkey=jxygk8ckidfig3s6a1pru1d9g&dl=0) | Bonny Barkus | 12 + 3 |
 | 11:15 | Science Working Group SV Ideas [Notes Document](https://docs.google.com/document/d/1UxkQ0apLhr7OV0QCAr9zOfVMW1VB4Gca6FCfKwELq-U/edit?usp=sharing) | SWG representatives |  |
 | 11:15 | Our Galaxy |	Katharine Johnston* | |
 | 11:22 | Cradle of Life | John Ilee* | |
@@ -64,8 +64,8 @@ Please note the details of this programme are subject to change!
 | 11:43	| Particles	| Justin Bray | |
 | 11:50	| VLBI	| Jack Radcliffe* | |
 | 11:57	| Transients | Ben Stappers* | |
-| 12:05 | ECR Science Highlight: First sources of reionization: Lyman–Werner feedback from minihaloes in large-volume radiative-transfer simulations | David Attard | 12 + 3 |
-| 12:20 | ECR Science Highlight: An Unsupervised Clustering View of Pulsar Intensity Mode Changing | Kika Latkoczyova | 12 + 3 |
+| 12:05 | ECR Science Highlight: [First sources of reionization: Lyman–Werner feedback from minihaloes in large-volume radiative-transfer simulations](https://www.dropbox.com/scl/fi/41kspa6b64g6pyaolj5j1/SKA-Townhall-2026-David-Attard-David-Attard.pdf?rlkey=ltbkrjeopqd8i3dpw7ieilz2e&dl=0) | David Attard | 12 + 3 |
+| 12:20 | ECR Science Highlight: [An Unsupervised Clustering View of Pulsar Intensity Mode Changing]() | Kika Latkoczyova | 12 + 3 |
 | 12:35 - 13:45 | **Lunch** (self organised) |  | 1 hr 15 min |
 | 13:45 | Science Working Group SV Ideas | SWG representatives |  |
 | 13:45 | GW | Pippa Cole* | |
